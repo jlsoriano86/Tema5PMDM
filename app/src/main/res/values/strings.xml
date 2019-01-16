@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="btnToast">TOAST</string>
+    <string name="btnNotificacion">NOTIFICACIÓN</string>
+    <string name="tituloToast">Configurar Toast</string>
+    <string name="tituloNotificacion">Configurar Notificación</string>
+    <string name="txtHorizontal">Introduzca desplazamiento horizontal</string>
+    <string name="txtVertical">Introduzca desplazamiento vertical</string>
+    <string name="txtTextoToast">Introduzca el texto del Toast</string>
+    <string name="txtRgHorizontal">Selecciona la alineación horizontal:</string>
+    <string name="txtRgVertical">Selecciona la alineación vertical:</string>
+    <string name="rbIzquierda">Izquierda</string>
+    <string name="rbMedio">Medio</string>
+    <string name="rbDerecha">Derecha</string>
+    <string name="rbArriba">Arriba</string>
+    <string name="rbCentro">Centro</string>
+    <string name="rbAbajo">Abajo</string>
+    <string name="btnMostrar">Mostrar</string>
+    <string name="txtTituloMensaje">Introduzca el título del mensaje</string>
+    <string name="txtTextoMensaje">Introduzca el texto del mensaje</string>
+    <string name="txtTiempoMensaje">Introduzca segundos de notificación</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
